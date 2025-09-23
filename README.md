@@ -1,4 +1,4 @@
-# Student Budgeting App (iOS)
+# Pennywise
 
 A budgeting app built for students, focused on helping users balance spending, build healthy financial habits, and simplify money management.  
 
